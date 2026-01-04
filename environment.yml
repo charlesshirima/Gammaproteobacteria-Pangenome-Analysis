@@ -1,0 +1,13 @@
+name: pangenome
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - prokka
+  - roary
+  - fasttree
+  - biopython
+  - numpy
+  - matplotlib
+  - seaborn
+  - python
