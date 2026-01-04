@@ -1,0 +1,5 @@
+Prokka v1.14
+Roary v3.13
+FastTree v2.1
+Python v3.x
+Conda
