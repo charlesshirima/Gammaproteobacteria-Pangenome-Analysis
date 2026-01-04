@@ -7,7 +7,7 @@ phylogenetic tree construction and visualisation.
 
 ---
 
-## 🧬 Organisms Analyzed in this project
+## 🧬 Organisms analysed in this project
 
 | Species | Accession |
 |-------|-----------|
